@@ -12,9 +12,9 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/1.mp4"
+- "images/slider/2.mp4"
+- "images/slider/3.mp4"
 
 # button
 button:
