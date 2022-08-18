@@ -69,7 +69,7 @@ logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "AbdallahAlswaiti"
 
 # Preloader
 [params.preloader]
@@ -79,23 +79,23 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+link = "https://www.facebook.com/A.Abdallah.Alswaiti"
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
+link = "https://twitter.com/AbdallAlswaiti"
 
 [[params.social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+link = "https://www.instagram.com/abdallahisaac"
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/abdallahalswaiti"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/abdallah-issac"
 
 
 ################################### English language #####################################
