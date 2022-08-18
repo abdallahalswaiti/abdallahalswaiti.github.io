@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'poppins light', sans-serif;
   height: 100%;
 }
 
@@ -186,7 +186,7 @@ body {
 }
 
 .logo img {
-  width: 205px;
+  width: 300px;
 }
 
 .owl-carousel.owl-full-width {
@@ -286,7 +286,7 @@ body {
   height: 100%;
   color: white;
   font-size: 30px;
-  font-family: 'Rubik', sans-serif !important;
+  font-family: 'blinker thin', sans-serif !important;
   font-weight: 300;
   z-index: 10;
 }
@@ -315,8 +315,8 @@ body {
   background: transparent;
   margin-top: 18px;
   text-decoration: none;
-  color: white;
-  font-family: 'Rubik', sans-serif;
+  color: #0d734f;
+  font-family: 'poppins', sans-serif;
   font-size: 19px;
   font-weight: 500;
   border: 2px solid white;
@@ -326,7 +326,7 @@ body {
 }
 
 .head-holder .hireMe:hover {
-  background: #6f6f6f;
+  background: #0d734f;
   color: #fff;
   border: 2px solid #6f6f6f;
 }
@@ -406,7 +406,7 @@ input:checked+label span:last-child {
   display: none;
   z-index: 11;
   color: #fff;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'poppins thin', sans-serif;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -510,7 +510,7 @@ input:checked+label span:last-child {
 
 .fullscreen-nav-holder a {
   color: white;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'poppins thin', sans-serif;
   font-size: 20px;
   font-weight: 500;
   text-decoration: none;
@@ -1344,14 +1344,14 @@ ul.experience-chart h4 {
 
 .item-caption h2 {
   font-size: 32px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'poppins thin', sans-serif;
   font-weight: 700;
   padding-left: 13px;
 }
 
 .item-caption p {
   padding-left: 16px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'poppins thin', sans-serif;
   font-weight: 500;
 }
 
@@ -1390,7 +1390,7 @@ ul.experience-chart h4 {
   margin-top: 25px;
   text-decoration: none;
   color: #6f6f6f;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'genos thin', sans-serif;
   font-size: 17px;
   font-weight: 500;
   border: 2px solid #6f6f6f;
