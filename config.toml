@@ -76,12 +76,12 @@ author = "AbdallahAlswaiti"
   title = "The Bit Title"
   site = "@AbdallAlswaiti"
   description = "Special Description for the card max. 200 characters"
-  player = "https://wakey.io/embed/26"
+  player = "images/slider/1"
   player_width = 1280
   player_height = 960
-  image = "https://wakey.io/public/img/thumbs/26.png"
+  image = "images/slider/slider-3.jpg"
   image_alt = "This is an amazing Thumbnail"
-  player_stream = "https://wakey.io/public/vid/26.mp4"
+  player_stream = "images/slider/1.mp4"
   player_stream_content_type = "video/mp4"
 # Preloader
 [params.preloader]
