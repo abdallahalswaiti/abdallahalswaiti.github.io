@@ -3,7 +3,7 @@ title: "Painting 'Magic Eyes'"
 date: 2022-08-23T12:14:34+06:00
 image: "images/portfolio/item1.jpg"
 tags: ["design","Art"]
-description: "This is meta description."
+description: "under construction"
 draft: false
 ---
 I just love **bold text**.
