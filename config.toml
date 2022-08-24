@@ -156,10 +156,10 @@ weight = 7
 
 
 ################################### French language #####################################
-[Languages.fr]
+[Languages.ar]
 languageName = "Ar"
 languageCode = "ar-jo"
-contentDir = "content/french"
+contentDir = "content/arabic"
 weight = 2
 home = "الرئيسة"
 # copyright
@@ -169,36 +169,36 @@ copyright = ""
 ################# english navigation ##################
 
 # main menu
-[[Languages.fr.menu.main]]
+[[Languages.ar.menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 
-[[Languages.fr.menu.main]]
+[[Languages.ar.menu.main]]
 name = "About me"
 pre = "#"
 url = "about"
 weight = 2
 
-[[Languages.fr.menu.main]]
+[[Languages.ar.menu.main]]
 name = "Service"
 pre = "#"
 url = "service"
 weight = 3
 
-[[Languages.fr.menu.main]]
+[[Languages.ar.menu.main]]
 name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 4
 
-[[Languages.fr.menu.main]]
+[[Languages.ar.menu.main]]
 name = "Testimonial"
 pre = "#"
 url = "testimonial"
 weight = 5
 
-[[Languages.fr.menu.main]]
+[[Languages.ar.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
