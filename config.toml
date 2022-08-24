@@ -111,16 +111,17 @@ copyright = ""
 
 ################# english navigation ##################
 [twitter]
+
   card = "player"
   title = "The Bit Title"
-  site = "@twittername"
+  site = "@AbdallAlswaiti"
   description = "Special Description for the card max. 200 characters"
-  player = "https://urltoiframeplayer.tld/awl3kj3lk234"
+  player = "https://wakey.io/embed/26"
   player_width = 1280
   player_height = 960
-  image = "https://example.tld/wonderful-thumbnail.jpg"
+  image = "https://wakey.io/public/img/thumbs/26.png"
   image_alt = "This is an amazing Thumbnail"
-  player_stream = "https://example.tld/stream.mp4"
+  player_stream = "https://wakey.io/public/vid/26.mp4"
   player_stream_content_type = "video/mp4"
 # main menu
 [[Languages.en.menu.main]]
