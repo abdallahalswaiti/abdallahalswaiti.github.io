@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-description: "This is meta description."
+description: "تحت التزبيط والإنشاء وما غيرو -عبود"
 draft: false
 
 
