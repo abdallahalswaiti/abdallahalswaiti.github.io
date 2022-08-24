@@ -2,19 +2,19 @@
 title : "TESTIMONIALS"
 testimonial_slider:
 # slider item loop
-- name : "Micheal Clark"
+- name : "A"
   image : "images/clients/client1.jpg"
   designation : "CEO, RANDOM COMPANY"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
             
 # slider item loop
-- name : "Peter Parker"
+- name : "B"
   image : "images/clients/client2.jpg"
   designation : "CEO, RANDOM COMPANY"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
             
 # slider item loop
-- name : "Jessica Jones"
+- name : "C"
   image : "images/clients/client3.jpg"
   designation : "CEO, RANDOM COMPANY"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."

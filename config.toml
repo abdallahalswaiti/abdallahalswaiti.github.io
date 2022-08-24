@@ -106,7 +106,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = ""
 
 
 ################# english navigation ##################
@@ -155,13 +155,13 @@ weight = 7
 
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
+languageName = "Ar"
+languageCode = "ar-jo"
 contentDir = "content/french"
 weight = 2
-home = "Accueil"
+home = "الرئيسة"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = ""
 
 
 ################# english navigation ##################
