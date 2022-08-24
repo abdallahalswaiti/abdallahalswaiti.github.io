@@ -59,11 +59,11 @@ custom_css: ""
 ---
 - Able to learn and adapt quickly, aware of the latest developments in education, strive to devise more effective methods of teaching that suit students' interests.
 
--More than 4 years training teachers how to employ the most effective online tools, software & websites which make teaching easier and more fun.
+- More than 4 years training teachers how to employ the most effective online tools, software & websites which make teaching easier and more fun.
 
--Flexible and organized educational professional with more than 14 years of teaching experience in the field of Physics. With an unparalleled ability to explain complicated physics concepts in an easily understandable manner.
+- Flexible and organized educational professional with more than 14 years of teaching experience in the field of Physics. With an unparalleled ability to explain complicated physics concepts in an easily understandable manner.
 
--Talent for possessing unique and modern teaching strategies to effectively engage all students and foster a fun and fascinating learning environment. Proven success in helping students earn better grades. Provide individualized and extracurricular support through LMS. Independently design interactive lessons using Adobe Captivate and mAuthor.
+- Talent for possessing unique and modern teaching strategies to effectively engage all students and foster a fun and fascinating learning environment. Proven success in helping students earn better grades. Provide individualized and extracurricular support through LMS. Independently design interactive lessons using Adobe Captivate and mAuthor.
 
 - Hard working and trusted educator who strives to collaborate with all members of the school community to meet the needs of students and promote the philosophy of the school.
 

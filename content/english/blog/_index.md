@@ -1,6 +1,6 @@
 ---
 title: "Oh My Blog!"
-description: "This is meta description."
+description: "under construction"
 draft: false
 
 
