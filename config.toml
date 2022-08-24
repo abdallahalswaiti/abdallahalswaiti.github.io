@@ -70,6 +70,7 @@ logo_width = "50px"
 # Meta data
 description = "under construction"
 author = "AbdallahAlswaiti"
+
 [twitter]
 
   card = "player"
@@ -83,6 +84,7 @@ author = "AbdallahAlswaiti"
   image_alt = "This is an amazing Thumbnail"
   player_stream = "images/slider/1.mp4"
   player_stream_content_type = "video/mp4"
+
 # Preloader
 [params.preloader]
 enable = true
