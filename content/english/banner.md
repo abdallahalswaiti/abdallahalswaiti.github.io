@@ -15,6 +15,7 @@ occupations:
 # slider background image loop
 slider_images:
 - "images/slider/1.mp4"
+- "images/slider/2.mp4"
 
 # button
 button:
