@@ -1,73 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Somrat | Hugo Portfolio Template</title>
-    <link>https://abdallahalswaiti.github.io/jinan/tags/</link>
-    <description>Recent content in Tags on Somrat | Hugo Portfolio Template</description>
+    <title>Tags on AbdallahAlswaiti</title>
+    <link>https://abdallahalswaiti.github.io/tags/</link>
+    <description>Recent content in Tags on AbdallahAlswaiti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://abdallahalswaiti.github.io/jinan/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://abdallahalswaiti.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>access</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/access/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Art</title>
+      <link>https://abdallahalswaiti.github.io/tags/art/</link>
+      <pubDate>Tue, 23 Aug 2022 12:14:34 +0600</pubDate>
       
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/art/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>database</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/database/</guid>
+      <guid>https://abdallahalswaiti.github.io/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/design/</link>
+      <link>https://abdallahalswaiti.github.io/tags/design/</link>
+      <pubDate>Tue, 23 Aug 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>access</title>
+      <link>https://abdallahalswaiti.github.io/tags/access/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/design/</guid>
+      <guid>https://abdallahalswaiti.github.io/tags/access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://abdallahalswaiti.github.io/tags/database/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/development/</link>
+      <link>https://abdallahalswaiti.github.io/tags/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/development/</guid>
+      <guid>https://abdallahalswaiti.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/sketch/</link>
+      <link>https://abdallahalswaiti.github.io/tags/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/sketch/</guid>
+      <guid>https://abdallahalswaiti.github.io/tags/sketch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>https://abdallahalswaiti.github.io/jinan/tags/web/</link>
+      <link>https://abdallahalswaiti.github.io/tags/web/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://abdallahalswaiti.github.io/jinan/tags/web/</guid>
+      <guid>https://abdallahalswaiti.github.io/tags/web/</guid>
       <description></description>
     </item>
     
