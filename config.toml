@@ -63,13 +63,19 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 #################### default parameters ################################
 [params]
 
+  description = 'Text about my cool site'
+  images = ['images/portfolio/item4.jpg']
+  title = 'My cool site'
+
+
 favicon = "images/favicon.png"
 logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "300px"
 # Meta data
-description = "under constrddddddddddction"
-author = "AbdallahAlswaiti"
+
+[taxonomies]
+  series = 'series'
 
 
 
