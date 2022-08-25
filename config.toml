@@ -64,8 +64,9 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 [params]
 
   description = 'Text about my cool site'
-  images = ['images/portfolio/item4.jpg']
+  #images = 'images/portfolio/item4.jpg'
   title = 'My cool site'
+  videos ='images/slider/2.mp4'
 
 
 favicon = "images/favicon.png"
