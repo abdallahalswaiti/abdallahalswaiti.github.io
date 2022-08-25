@@ -70,13 +70,13 @@ logo_width = "300px"
 # Meta data
 description = "under construction"
 author = "AbdallahAlswaiti"
-
+images = ""
 
 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "/home/abdallah/Desktop/hugo/mainsite/static/images/portfolio/item2.jpg" # use jpg, png, svg or gif format.
+preloader = "images/portfolio/item2.jpg" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
