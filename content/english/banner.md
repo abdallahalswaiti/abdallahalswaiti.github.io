@@ -3,6 +3,7 @@ title : "I'm Abdallah Alswaiti"
 # full screen navigation
 first_name : "Abdallah"
 last_name : "Alswaiti"
+image : "images/backgrounds/full-nav-bg.jpg"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
