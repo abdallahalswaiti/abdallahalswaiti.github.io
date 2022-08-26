@@ -60,11 +60,11 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 
 #################### default parameters ################################
-[params]
 
-  description = 'Text about my cool site'
-  images = ['images/portfolio/item1.jpg']
-  title = 'My cool site'
+[params]
+  description = 'كنت زهقان واجا ببالي .... مش غلط'
+  images = ['images/backgrounds/full-nav-bg.jpg']
+  title = 'تحت التزبيط وما غيرو إلى إشعارأحر'
 
 
 
