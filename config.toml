@@ -18,7 +18,7 @@ disqusShortname = "abdallahalswaiti" # get your shortname form here : https://di
 home = ["HTML"]
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe= false
 
 ############################# Plugins ##############################
 

@@ -6,11 +6,12 @@ last_name : "Alswaiti"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
+- "Problem Slover"
+- "Physics Teacher"
 - "Coder"
 - "Developer"
 - "Graphic Designer"
-- "Physics Teacher"
-- "Penteration Tester"
+- "Penetration Tester"
 
 # slider background image loop
 slider_images:
