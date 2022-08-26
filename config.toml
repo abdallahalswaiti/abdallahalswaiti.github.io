@@ -9,7 +9,7 @@ summaryLength = "10"
 # disable language
 disableLanguages = [] # disable language from here
 # google analutics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-9ZY47PH8X8" # example : UA-123-45
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
