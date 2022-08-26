@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oh My Blog! on AbdallahAlswaiti</title>
+    <link>https://abdallahalswaiti.github.io/blog/</link>
+    <description>Recent content in Oh My Blog! on AbdallahAlswaiti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://abdallahalswaiti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Painting &#39;Magic Eyes&#39;</title>
+      <link>https://abdallahalswaiti.github.io/blog/blog-1/</link>
+      <pubDate>Tue, 23 Aug 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/blog/blog-1/</guid>
+      <description>&#34;سحر العيون&#34; إِنَّ العُيونَ الَّتي في طَرفِها حَوَرٌ قَتَلنَنا ثُمَّ لَم يُحيِينَ قَتلانا</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://abdallahalswaiti.github.io/blog/blog-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/blog/blog-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://abdallahalswaiti.github.io/blog/blog-3/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/blog/blog-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://abdallahalswaiti.github.io/blog/blog-4/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/blog/blog-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://abdallahalswaiti.github.io/blog/blog-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/blog/blog-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This Is A Simple Blog Post</title>
+      <link>https://abdallahalswaiti.github.io/blog/blog-6/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://abdallahalswaiti.github.io/blog/blog-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
