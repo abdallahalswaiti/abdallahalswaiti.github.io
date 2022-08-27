@@ -75,7 +75,7 @@ logo_width = "300px"
 # Meta data
 
 [taxonomies]
-  series = 'series'
+  series = 'series' #tags
 
 
 

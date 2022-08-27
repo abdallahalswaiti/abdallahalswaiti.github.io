@@ -177,7 +177,7 @@ body {
 .logo {
   position: absolute;
   z-index: 10;
-  top: 2px;
+  top: -55px;
   left: 40px;
 }
 
@@ -186,7 +186,7 @@ body {
 }
 
 .logo img {
-  width: 300px;
+  width: 350px;
 }
 
 .owl-carousel.owl-full-width {
@@ -204,12 +204,8 @@ body {
   height: 100%;
 }
 
-.owl-carousel.owl-full-width .slider video {
-  position: relative;
-  right: 0;
-  bottom: 0;
-  max-width: 150%;
-  max-height: 150%;
+.owl-carousel.owl-full-width .slider img {
+  display: none;
 }
 
 .owl-full-width div {
@@ -626,7 +622,7 @@ input:checked+label span:last-child {
 }
 
 .desktop-menu-logo img {
-  height: 42px;
+  height: 300px;
 }
 
 .desktop-menu-logo {
@@ -1925,11 +1921,12 @@ textarea.form-control::-webkit-input-placeholder,
 
 @media (max-width: 767px) {
   .logo {
-    left: 10px;
+    left: -5px;
+    top: 50px;
   }
 
   .header .logo img {
-    width: 185px;
+    width: 300px;
   }
 
 }
